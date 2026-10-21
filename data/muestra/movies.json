@@ -1,0 +1,232 @@
+[
+ {
+  "movieId": 1,
+  "title": "Toy Story (1995)",
+  "genres": "Adventure|Animation|Children|Comedy|Fantasy"
+ },
+ {
+  "movieId": 2,
+  "title": "Shawshank Redemption, The (1994)",
+  "genres": "Crime|Drama"
+ },
+ {
+  "movieId": 3,
+  "title": "Pulp Fiction (1994)",
+  "genres": "Comedy|Crime|Drama|Thriller"
+ },
+ {
+  "movieId": 4,
+  "title": "Forrest Gump (1994)",
+  "genres": "Comedy|Drama|Romance|War"
+ },
+ {
+  "movieId": 5,
+  "title": "Matrix, The (1999)",
+  "genres": "Action|Sci-Fi|Thriller"
+ },
+ {
+  "movieId": 6,
+  "title": "Silence of the Lambs, The (1991)",
+  "genres": "Crime|Horror|Thriller"
+ },
+ {
+  "movieId": 7,
+  "title": "Star Wars: Episode IV - A New Hope (1977)",
+  "genres": "Action|Adventure|Sci-Fi"
+ },
+ {
+  "movieId": 8,
+  "title": "Jurassic Park (1993)",
+  "genres": "Action|Adventure|Sci-Fi|Thriller"
+ },
+ {
+  "movieId": 9,
+  "title": "Titanic (1997)",
+  "genres": "Drama|Romance"
+ },
+ {
+  "movieId": 10,
+  "title": "Godfather, The (1972)",
+  "genres": "Crime|Drama"
+ },
+ {
+  "movieId": 11,
+  "title": "Fight Club (1999)",
+  "genres": "Action|Crime|Drama|Thriller"
+ },
+ {
+  "movieId": 12,
+  "title": "Lion King, The (1994)",
+  "genres": "Adventure|Animation|Children|Drama|Musical|IMAX"
+ },
+ {
+  "movieId": 13,
+  "title": "Spirited Away (Sen to Chihiro no kamikakushi) (2001)",
+  "genres": "Adventure|Animation|Fantasy"
+ },
+ {
+  "movieId": 14,
+  "title": "Amélie (Fabuleux destin d'Amélie Poulain, Le) (2001)",
+  "genres": "Comedy|Romance"
+ },
+ {
+  "movieId": 15,
+  "title": "Misérables, Les (1995)",
+  "genres": "Drama|War"
+ },
+ {
+  "movieId": 16,
+  "title": "Secret in Their Eyes, The (El secreto de sus ojos) (2009)",
+  "genres": "Crime|Drama|Mystery|Romance|Thriller"
+ },
+ {
+  "movieId": 17,
+  "title": "Wild Tales (2014)",
+  "genres": "Comedy|Drama|Thriller"
+ },
+ {
+  "movieId": 18,
+  "title": "Nine Queens (Nueve reinas) (2000)",
+  "genres": "Crime|Thriller"
+ },
+ {
+  "movieId": 19,
+  "title": "City of God (Cidade de Deus) (2002)",
+  "genres": "Action|Adventure|Crime|Drama|Thriller"
+ },
+ {
+  "movieId": 20,
+  "title": "Pan's Labyrinth (Laberinto del fauno, El) (2006)",
+  "genres": "Drama|Fantasy|Thriller"
+ },
+ {
+  "movieId": 21,
+  "title": "(500) Days of Summer (2009)",
+  "genres": "Comedy|Drama|Romance"
+ },
+ {
+  "movieId": 22,
+  "title": "Inception (2010)",
+  "genres": "Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX"
+ },
+ {
+  "movieId": 23,
+  "title": "Dark Knight, The (2008)",
+  "genres": "Action|Crime|Drama|IMAX"
+ },
+ {
+  "movieId": 24,
+  "title": "WALL·E (2008)",
+  "genres": "Adventure|Animation|Children|Romance|Sci-Fi"
+ },
+ {
+  "movieId": 25,
+  "title": "Up (2009)",
+  "genres": "Adventure|Animation|Children|Drama"
+ },
+ {
+  "movieId": 26,
+  "title": "Interstellar (2014)",
+  "genres": "Sci-Fi|IMAX"
+ },
+ {
+  "movieId": 27,
+  "title": "Mad Max: Fury Road (2015)",
+  "genres": "Action|Adventure|Sci-Fi|Thriller"
+ },
+ {
+  "movieId": 28,
+  "title": "Grand Budapest Hotel, The (2014)",
+  "genres": "Comedy|Drama"
+ },
+ {
+  "movieId": 29,
+  "title": "Whiplash (2014)",
+  "genres": "Drama"
+ },
+ {
+  "movieId": 30,
+  "title": "Get Out (2017)",
+  "genres": "Horror"
+ },
+ {
+  "movieId": 31,
+  "title": "Coco (2017)",
+  "genres": "Adventure|Animation|Children"
+ },
+ {
+  "movieId": 32,
+  "title": "Parasite (2019)",
+  "genres": "Comedy|Drama"
+ },
+ {
+  "movieId": 33,
+  "title": "Shrek (2001)",
+  "genres": "Adventure|Animation|Children|Comedy|Fantasy|Romance"
+ },
+ {
+  "movieId": 34,
+  "title": "Twilight (2008)",
+  "genres": "Drama|Fantasy|Romance|Thriller"
+ },
+ {
+  "movieId": 35,
+  "title": "Batman & Robin (1997)",
+  "genres": "Action|Adventure|Fantasy|Thriller"
+ },
+ {
+  "movieId": 36,
+  "title": "Catwoman (2004)",
+  "genres": "Action|Crime|Fantasy"
+ },
+ {
+  "movieId": 37,
+  "title": "Psycho (1960)",
+  "genres": "Crime|Horror"
+ },
+ {
+  "movieId": 38,
+  "title": "Metropolis (1927)",
+  "genres": "Drama|Sci-Fi"
+ },
+ {
+  "movieId": 39,
+  "title": "Casablanca (1942)",
+  "genres": "Drama|Romance"
+ },
+ {
+  "movieId": 40,
+  "title": "Cosmos",
+  "genres": "(no genres listed)"
+ },
+ {
+  "movieId": 41,
+  "title": "Hidden Gem Documentary (2016)",
+  "genres": "Documentary"
+ },
+ {
+  "movieId": 42,
+  "title": "Unrated Short Film (2018)",
+  "genres": "Animation"
+ },
+ {
+  "movieId": 12,
+  "title": "Lion King, The (2019)",
+  "genres": "Adventure|Animation"
+ },
+ {
+  "movieId": "abc",
+  "title": "Movie With Bad Id (2001)",
+  "genres": "Drama"
+ },
+ {
+  "movieId": 90,
+  "title": "",
+  "genres": "Drama"
+ },
+ {
+  "movieId": 91,
+  "title": "Movie From The Future (2099)",
+  "genres": "Sci-Fi"
+ }
+]

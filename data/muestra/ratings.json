@@ -1,0 +1,2678 @@
+[
+ {
+  "userId": 1,
+  "movieId": 3,
+  "rating": 5.0,
+  "timestamp": 1450039145
+ },
+ {
+  "userId": 1,
+  "movieId": 6,
+  "rating": 3.0,
+  "timestamp": 1524300207
+ },
+ {
+  "userId": 1,
+  "movieId": 10,
+  "rating": 4.0,
+  "timestamp": 1502507503
+ },
+ {
+  "userId": 1,
+  "movieId": 11,
+  "rating": 4.5,
+  "timestamp": 1421612404
+ },
+ {
+  "userId": 1,
+  "movieId": 15,
+  "rating": 4.0,
+  "timestamp": 1453827917
+ },
+ {
+  "userId": 1,
+  "movieId": 16,
+  "rating": 5.0,
+  "timestamp": 1470582502
+ },
+ {
+  "userId": 1,
+  "movieId": 19,
+  "rating": 4.5,
+  "timestamp": 1465757386
+ },
+ {
+  "userId": 1,
+  "movieId": 20,
+  "rating": 3.5,
+  "timestamp": 1438980114
+ },
+ {
+  "userId": 1,
+  "movieId": 24,
+  "rating": 4.0,
+  "timestamp": 1515480727
+ },
+ {
+  "userId": 1,
+  "movieId": 25,
+  "rating": 4.0,
+  "timestamp": 1498684114
+ },
+ {
+  "userId": 1,
+  "movieId": 28,
+  "rating": 4.0,
+  "timestamp": 1527786736
+ },
+ {
+  "userId": 1,
+  "movieId": 33,
+  "rating": 2.5,
+  "timestamp": 1484386188
+ },
+ {
+  "userId": 1,
+  "movieId": 40,
+  "rating": 5.0,
+  "timestamp": 1487120621
+ },
+ {
+  "userId": 1,
+  "movieId": 41,
+  "rating": 5.0,
+  "timestamp": 1495532630
+ },
+ {
+  "userId": 2,
+  "movieId": 4,
+  "rating": 5.0,
+  "timestamp": 1534105642
+ },
+ {
+  "userId": 2,
+  "movieId": 14,
+  "rating": 5.0,
+  "timestamp": 1527418007
+ },
+ {
+  "userId": 2,
+  "movieId": 18,
+  "rating": 4.5,
+  "timestamp": 1421315523
+ },
+ {
+  "userId": 2,
+  "movieId": 19,
+  "rating": 5.0,
+  "timestamp": 1508069274
+ },
+ {
+  "userId": 2,
+  "movieId": 24,
+  "rating": 4.5,
+  "timestamp": 1482703922
+ },
+ {
+  "userId": 2,
+  "movieId": 31,
+  "rating": 5.0,
+  "timestamp": 1529041947
+ },
+ {
+  "userId": 2,
+  "movieId": 32,
+  "rating": 4.0,
+  "timestamp": 1489215794
+ },
+ {
+  "userId": 2,
+  "movieId": 33,
+  "rating": 3.0,
+  "timestamp": 1444638798
+ },
+ {
+  "userId": 2,
+  "movieId": 37,
+  "rating": 4.0,
+  "timestamp": 1433044227
+ },
+ {
+  "userId": 2,
+  "movieId": 38,
+  "rating": 5.0,
+  "timestamp": 1535046308
+ },
+ {
+  "userId": 2,
+  "movieId": 39,
+  "rating": 4.5,
+  "timestamp": 1420099118
+ },
+ {
+  "userId": 2,
+  "movieId": 41,
+  "rating": 5.0,
+  "timestamp": 1490400166
+ },
+ {
+  "userId": 3,
+  "movieId": 5,
+  "rating": 4.5,
+  "timestamp": 1493413491
+ },
+ {
+  "userId": 3,
+  "movieId": 9,
+  "rating": 3.5,
+  "timestamp": 1462139971
+ },
+ {
+  "userId": 3,
+  "movieId": 18,
+  "rating": 3.0,
+  "timestamp": 1459084829
+ },
+ {
+  "userId": 3,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1509802316
+ },
+ {
+  "userId": 3,
+  "movieId": 20,
+  "rating": 4.5,
+  "timestamp": 1498725906
+ },
+ {
+  "userId": 3,
+  "movieId": 21,
+  "rating": 4.5,
+  "timestamp": 1475373358
+ },
+ {
+  "userId": 3,
+  "movieId": 22,
+  "rating": 5.0,
+  "timestamp": 1470537096
+ },
+ {
+  "userId": 3,
+  "movieId": 23,
+  "rating": 5.0,
+  "timestamp": 1434315456
+ },
+ {
+  "userId": 3,
+  "movieId": 24,
+  "rating": 5.0,
+  "timestamp": 1506811619
+ },
+ {
+  "userId": 3,
+  "movieId": 25,
+  "rating": 4.5,
+  "timestamp": 1523355469
+ },
+ {
+  "userId": 3,
+  "movieId": 27,
+  "rating": 3.0,
+  "timestamp": 1480487219
+ },
+ {
+  "userId": 3,
+  "movieId": 28,
+  "rating": 4.0,
+  "timestamp": 1436360787
+ },
+ {
+  "userId": 3,
+  "movieId": 32,
+  "rating": 4.0,
+  "timestamp": 1503734089
+ },
+ {
+  "userId": 3,
+  "movieId": 33,
+  "rating": 3.5,
+  "timestamp": 1500362076
+ },
+ {
+  "userId": 3,
+  "movieId": 34,
+  "rating": 2.5,
+  "timestamp": 1424654296
+ },
+ {
+  "userId": 3,
+  "movieId": 35,
+  "rating": 1.5,
+  "timestamp": 1443338910
+ },
+ {
+  "userId": 3,
+  "movieId": 36,
+  "rating": 0.5,
+  "timestamp": 1480712768
+ },
+ {
+  "userId": 4,
+  "movieId": 2,
+  "rating": 4.0,
+  "timestamp": 1489441189
+ },
+ {
+  "userId": 4,
+  "movieId": 4,
+  "rating": 3.5,
+  "timestamp": 1508818237
+ },
+ {
+  "userId": 4,
+  "movieId": 6,
+  "rating": 3.5,
+  "timestamp": 1430627807
+ },
+ {
+  "userId": 4,
+  "movieId": 7,
+  "rating": 4.5,
+  "timestamp": 1445195795
+ },
+ {
+  "userId": 4,
+  "movieId": 8,
+  "rating": 3.5,
+  "timestamp": 1524793520
+ },
+ {
+  "userId": 4,
+  "movieId": 10,
+  "rating": 5.0,
+  "timestamp": 1443821875
+ },
+ {
+  "userId": 4,
+  "movieId": 11,
+  "rating": 3.5,
+  "timestamp": 1526988573
+ },
+ {
+  "userId": 4,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1432762839
+ },
+ {
+  "userId": 4,
+  "movieId": 15,
+  "rating": 5.0,
+  "timestamp": 1506731996
+ },
+ {
+  "userId": 4,
+  "movieId": 16,
+  "rating": 3.5,
+  "timestamp": 1493227135
+ },
+ {
+  "userId": 4,
+  "movieId": 21,
+  "rating": 4.0,
+  "timestamp": 1496887533
+ },
+ {
+  "userId": 4,
+  "movieId": 23,
+  "rating": 5.0,
+  "timestamp": 1503390674
+ },
+ {
+  "userId": 4,
+  "movieId": 27,
+  "rating": 3.5,
+  "timestamp": 1494659776
+ },
+ {
+  "userId": 4,
+  "movieId": 28,
+  "rating": 4.5,
+  "timestamp": 1524966961
+ },
+ {
+  "userId": 4,
+  "movieId": 29,
+  "rating": 4.5,
+  "timestamp": 1511948782
+ },
+ {
+  "userId": 4,
+  "movieId": 30,
+  "rating": 3.5,
+  "timestamp": 1467885918
+ },
+ {
+  "userId": 4,
+  "movieId": 32,
+  "rating": 3.5,
+  "timestamp": 1457219997
+ },
+ {
+  "userId": 4,
+  "movieId": 34,
+  "rating": 2.0,
+  "timestamp": 1462295537
+ },
+ {
+  "userId": 4,
+  "movieId": 35,
+  "rating": 2.0,
+  "timestamp": 1536369191
+ },
+ {
+  "userId": 4,
+  "movieId": 38,
+  "rating": 4.0,
+  "timestamp": 1422141378
+ },
+ {
+  "userId": 4,
+  "movieId": 39,
+  "rating": 4.0,
+  "timestamp": 1432669437
+ },
+ {
+  "userId": 5,
+  "movieId": 4,
+  "rating": 4.5,
+  "timestamp": 1507945041
+ },
+ {
+  "userId": 5,
+  "movieId": 6,
+  "rating": 3.5,
+  "timestamp": 1474319937
+ },
+ {
+  "userId": 5,
+  "movieId": 7,
+  "rating": 4.5,
+  "timestamp": 1510790748
+ },
+ {
+  "userId": 5,
+  "movieId": 13,
+  "rating": 5.0,
+  "timestamp": 1529701540
+ },
+ {
+  "userId": 5,
+  "movieId": 14,
+  "rating": 4.0,
+  "timestamp": 1423246436
+ },
+ {
+  "userId": 5,
+  "movieId": 15,
+  "rating": 3.0,
+  "timestamp": 1464435808
+ },
+ {
+  "userId": 5,
+  "movieId": 16,
+  "rating": 5.0,
+  "timestamp": 1436487272
+ },
+ {
+  "userId": 5,
+  "movieId": 17,
+  "rating": 4.0,
+  "timestamp": 1475990405
+ },
+ {
+  "userId": 5,
+  "movieId": 18,
+  "rating": 5.0,
+  "timestamp": 1466037803
+ },
+ {
+  "userId": 5,
+  "movieId": 19,
+  "rating": 4.0,
+  "timestamp": 1427606074
+ },
+ {
+  "userId": 5,
+  "movieId": 21,
+  "rating": 3.5,
+  "timestamp": 1436939146
+ },
+ {
+  "userId": 5,
+  "movieId": 25,
+  "rating": 4.0,
+  "timestamp": 1477082075
+ },
+ {
+  "userId": 5,
+  "movieId": 27,
+  "rating": 4.0,
+  "timestamp": 1476574109
+ },
+ {
+  "userId": 5,
+  "movieId": 30,
+  "rating": 4.5,
+  "timestamp": 1423884481
+ },
+ {
+  "userId": 5,
+  "movieId": 34,
+  "rating": 3.0,
+  "timestamp": 1423205994
+ },
+ {
+  "userId": 5,
+  "movieId": 35,
+  "rating": 3.0,
+  "timestamp": 1492702320
+ },
+ {
+  "userId": 5,
+  "movieId": 37,
+  "rating": 3.5,
+  "timestamp": 1499748822
+ },
+ {
+  "userId": 5,
+  "movieId": 38,
+  "rating": 5.0,
+  "timestamp": 1444135939
+ },
+ {
+  "userId": 6,
+  "movieId": 2,
+  "rating": 2.5,
+  "timestamp": 1505031101
+ },
+ {
+  "userId": 6,
+  "movieId": 5,
+  "rating": 4.5,
+  "timestamp": 1452659337
+ },
+ {
+  "userId": 6,
+  "movieId": 12,
+  "rating": 2.5,
+  "timestamp": 1468379543
+ },
+ {
+  "userId": 6,
+  "movieId": 14,
+  "rating": 4.0,
+  "timestamp": 1447045398
+ },
+ {
+  "userId": 6,
+  "movieId": 15,
+  "rating": 2.5,
+  "timestamp": 1481712270
+ },
+ {
+  "userId": 6,
+  "movieId": 21,
+  "rating": 3.0,
+  "timestamp": 1420783338
+ },
+ {
+  "userId": 6,
+  "movieId": 28,
+  "rating": 3.0,
+  "timestamp": 1470105945
+ },
+ {
+  "userId": 6,
+  "movieId": 30,
+  "rating": 3.5,
+  "timestamp": 1422533623
+ },
+ {
+  "userId": 6,
+  "movieId": 34,
+  "rating": 2.0,
+  "timestamp": 1426062290
+ },
+ {
+  "userId": 6,
+  "movieId": 36,
+  "rating": 2.5,
+  "timestamp": 1506512892
+ },
+ {
+  "userId": 6,
+  "movieId": 39,
+  "rating": 3.5,
+  "timestamp": 1439114866
+ },
+ {
+  "userId": 7,
+  "movieId": 1,
+  "rating": 3.5,
+  "timestamp": 1425652326
+ },
+ {
+  "userId": 7,
+  "movieId": 4,
+  "rating": 4.5,
+  "timestamp": 1458400136
+ },
+ {
+  "userId": 7,
+  "movieId": 5,
+  "rating": 4.0,
+  "timestamp": 1472229004
+ },
+ {
+  "userId": 7,
+  "movieId": 6,
+  "rating": 4.0,
+  "timestamp": 1501399784
+ },
+ {
+  "userId": 7,
+  "movieId": 9,
+  "rating": 3.5,
+  "timestamp": 1523736167
+ },
+ {
+  "userId": 7,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1492426696
+ },
+ {
+  "userId": 7,
+  "movieId": 14,
+  "rating": 4.0,
+  "timestamp": 1423884608
+ },
+ {
+  "userId": 7,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1449087111
+ },
+ {
+  "userId": 7,
+  "movieId": 22,
+  "rating": 4.5,
+  "timestamp": 1434333593
+ },
+ {
+  "userId": 7,
+  "movieId": 27,
+  "rating": 3.0,
+  "timestamp": 1466751200
+ },
+ {
+  "userId": 7,
+  "movieId": 31,
+  "rating": 3.0,
+  "timestamp": 1468211261
+ },
+ {
+  "userId": 7,
+  "movieId": 35,
+  "rating": 2.0,
+  "timestamp": 1486483050
+ },
+ {
+  "userId": 7,
+  "movieId": 37,
+  "rating": 3.5,
+  "timestamp": 1508937076
+ },
+ {
+  "userId": 7,
+  "movieId": 38,
+  "rating": 3.5,
+  "timestamp": 1464592116
+ },
+ {
+  "userId": 7,
+  "movieId": 39,
+  "rating": 5.0,
+  "timestamp": 1517223710
+ },
+ {
+  "userId": 8,
+  "movieId": 1,
+  "rating": 3.0,
+  "timestamp": 1446442262
+ },
+ {
+  "userId": 8,
+  "movieId": 3,
+  "rating": 4.0,
+  "timestamp": 1525724446
+ },
+ {
+  "userId": 8,
+  "movieId": 4,
+  "rating": 3.5,
+  "timestamp": 1531688706
+ },
+ {
+  "userId": 8,
+  "movieId": 6,
+  "rating": 4.5,
+  "timestamp": 1508230147
+ },
+ {
+  "userId": 8,
+  "movieId": 8,
+  "rating": 4.5,
+  "timestamp": 1464224475
+ },
+ {
+  "userId": 8,
+  "movieId": 10,
+  "rating": 4.5,
+  "timestamp": 1439580597
+ },
+ {
+  "userId": 8,
+  "movieId": 12,
+  "rating": 3.0,
+  "timestamp": 1464600034
+ },
+ {
+  "userId": 8,
+  "movieId": 15,
+  "rating": 3.0,
+  "timestamp": 1473924572
+ },
+ {
+  "userId": 8,
+  "movieId": 16,
+  "rating": 4.5,
+  "timestamp": 1493854468
+ },
+ {
+  "userId": 8,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1511097137
+ },
+ {
+  "userId": 8,
+  "movieId": 24,
+  "rating": 2.5,
+  "timestamp": 1467336574
+ },
+ {
+  "userId": 8,
+  "movieId": 26,
+  "rating": 3.5,
+  "timestamp": 1455913896
+ },
+ {
+  "userId": 8,
+  "movieId": 28,
+  "rating": 4.0,
+  "timestamp": 1464900958
+ },
+ {
+  "userId": 8,
+  "movieId": 35,
+  "rating": 2.0,
+  "timestamp": 1508744904
+ },
+ {
+  "userId": 8,
+  "movieId": 37,
+  "rating": 3.0,
+  "timestamp": 1422457873
+ },
+ {
+  "userId": 9,
+  "movieId": 1,
+  "rating": 3.5,
+  "timestamp": 1494663923
+ },
+ {
+  "userId": 9,
+  "movieId": 4,
+  "rating": 4.0,
+  "timestamp": 1449518347
+ },
+ {
+  "userId": 9,
+  "movieId": 6,
+  "rating": 4.0,
+  "timestamp": 1510418114
+ },
+ {
+  "userId": 9,
+  "movieId": 7,
+  "rating": 3.5,
+  "timestamp": 1515610462
+ },
+ {
+  "userId": 9,
+  "movieId": 10,
+  "rating": 5.0,
+  "timestamp": 1423869347
+ },
+ {
+  "userId": 9,
+  "movieId": 11,
+  "rating": 3.5,
+  "timestamp": 1518619852
+ },
+ {
+  "userId": 9,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1483256048
+ },
+ {
+  "userId": 9,
+  "movieId": 15,
+  "rating": 2.5,
+  "timestamp": 1454342841
+ },
+ {
+  "userId": 9,
+  "movieId": 17,
+  "rating": 4.5,
+  "timestamp": 1453638549
+ },
+ {
+  "userId": 9,
+  "movieId": 18,
+  "rating": 3.5,
+  "timestamp": 1528645977
+ },
+ {
+  "userId": 9,
+  "movieId": 19,
+  "rating": 4.0,
+  "timestamp": 1532345844
+ },
+ {
+  "userId": 9,
+  "movieId": 21,
+  "rating": 3.0,
+  "timestamp": 1473747553
+ },
+ {
+  "userId": 9,
+  "movieId": 22,
+  "rating": 5.0,
+  "timestamp": 1498150651
+ },
+ {
+  "userId": 9,
+  "movieId": 23,
+  "rating": 3.5,
+  "timestamp": 1516984172
+ },
+ {
+  "userId": 9,
+  "movieId": 35,
+  "rating": 2.0,
+  "timestamp": 1430548503
+ },
+ {
+  "userId": 9,
+  "movieId": 38,
+  "rating": 3.5,
+  "timestamp": 1537045454
+ },
+ {
+  "userId": 10,
+  "movieId": 5,
+  "rating": 5.0,
+  "timestamp": 1534891542
+ },
+ {
+  "userId": 10,
+  "movieId": 9,
+  "rating": 5.0,
+  "timestamp": 1537350890
+ },
+ {
+  "userId": 10,
+  "movieId": 11,
+  "rating": 4.5,
+  "timestamp": 1468891527
+ },
+ {
+  "userId": 10,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1502646068
+ },
+ {
+  "userId": 10,
+  "movieId": 15,
+  "rating": 3.5,
+  "timestamp": 1440620166
+ },
+ {
+  "userId": 10,
+  "movieId": 17,
+  "rating": 4.0,
+  "timestamp": 1529577086
+ },
+ {
+  "userId": 10,
+  "movieId": 22,
+  "rating": 4.5,
+  "timestamp": 1438751989
+ },
+ {
+  "userId": 10,
+  "movieId": 23,
+  "rating": 5.0,
+  "timestamp": 1492590815
+ },
+ {
+  "userId": 10,
+  "movieId": 25,
+  "rating": 5.0,
+  "timestamp": 1520916034
+ },
+ {
+  "userId": 10,
+  "movieId": 26,
+  "rating": 5.0,
+  "timestamp": 1440726301
+ },
+ {
+  "userId": 10,
+  "movieId": 27,
+  "rating": 3.5,
+  "timestamp": 1423964009
+ },
+ {
+  "userId": 10,
+  "movieId": 28,
+  "rating": 3.5,
+  "timestamp": 1489135816
+ },
+ {
+  "userId": 10,
+  "movieId": 29,
+  "rating": 4.0,
+  "timestamp": 1520350809
+ },
+ {
+  "userId": 10,
+  "movieId": 30,
+  "rating": 4.5,
+  "timestamp": 1463624502
+ },
+ {
+  "userId": 10,
+  "movieId": 31,
+  "rating": 4.0,
+  "timestamp": 1427877738
+ },
+ {
+  "userId": 10,
+  "movieId": 32,
+  "rating": 5.0,
+  "timestamp": 1498723321
+ },
+ {
+  "userId": 10,
+  "movieId": 36,
+  "rating": 3.5,
+  "timestamp": 1536717438
+ },
+ {
+  "userId": 10,
+  "movieId": 38,
+  "rating": 5.0,
+  "timestamp": 1478204393
+ },
+ {
+  "userId": 10,
+  "movieId": 39,
+  "rating": 5.0,
+  "timestamp": 1508871884
+ },
+ {
+  "userId": 11,
+  "movieId": 2,
+  "rating": 5.0,
+  "timestamp": 1476706659
+ },
+ {
+  "userId": 11,
+  "movieId": 5,
+  "rating": 5.0,
+  "timestamp": 1448146208
+ },
+ {
+  "userId": 11,
+  "movieId": 8,
+  "rating": 4.5,
+  "timestamp": 1432386702
+ },
+ {
+  "userId": 11,
+  "movieId": 10,
+  "rating": 4.0,
+  "timestamp": 1446302779
+ },
+ {
+  "userId": 11,
+  "movieId": 11,
+  "rating": 5.0,
+  "timestamp": 1503578697
+ },
+ {
+  "userId": 11,
+  "movieId": 13,
+  "rating": 4.5,
+  "timestamp": 1447392811
+ },
+ {
+  "userId": 11,
+  "movieId": 15,
+  "rating": 5.0,
+  "timestamp": 1424164285
+ },
+ {
+  "userId": 11,
+  "movieId": 17,
+  "rating": 3.0,
+  "timestamp": 1505201597
+ },
+ {
+  "userId": 11,
+  "movieId": 19,
+  "rating": 4.0,
+  "timestamp": 1490000184
+ },
+ {
+  "userId": 11,
+  "movieId": 21,
+  "rating": 3.5,
+  "timestamp": 1467608039
+ },
+ {
+  "userId": 11,
+  "movieId": 23,
+  "rating": 4.5,
+  "timestamp": 1468253854
+ },
+ {
+  "userId": 11,
+  "movieId": 29,
+  "rating": 3.0,
+  "timestamp": 1454276673
+ },
+ {
+  "userId": 11,
+  "movieId": 31,
+  "rating": 3.0,
+  "timestamp": 1526968384
+ },
+ {
+  "userId": 11,
+  "movieId": 34,
+  "rating": 2.5,
+  "timestamp": 1457130080
+ },
+ {
+  "userId": 11,
+  "movieId": 35,
+  "rating": 2.0,
+  "timestamp": 1490888710
+ },
+ {
+  "userId": 11,
+  "movieId": 38,
+  "rating": 4.0,
+  "timestamp": 1506703793
+ },
+ {
+  "userId": 12,
+  "movieId": 2,
+  "rating": 4.5,
+  "timestamp": 1462807072
+ },
+ {
+  "userId": 12,
+  "movieId": 3,
+  "rating": 5.0,
+  "timestamp": 1491845649
+ },
+ {
+  "userId": 12,
+  "movieId": 5,
+  "rating": 5.0,
+  "timestamp": 1426269853
+ },
+ {
+  "userId": 12,
+  "movieId": 7,
+  "rating": 4.5,
+  "timestamp": 1535028146
+ },
+ {
+  "userId": 12,
+  "movieId": 10,
+  "rating": 4.5,
+  "timestamp": 1483257540
+ },
+ {
+  "userId": 12,
+  "movieId": 11,
+  "rating": 4.5,
+  "timestamp": 1452622354
+ },
+ {
+  "userId": 12,
+  "movieId": 12,
+  "rating": 3.5,
+  "timestamp": 1489070058
+ },
+ {
+  "userId": 12,
+  "movieId": 14,
+  "rating": 5.0,
+  "timestamp": 1444804873
+ },
+ {
+  "userId": 12,
+  "movieId": 15,
+  "rating": 4.0,
+  "timestamp": 1523255322
+ },
+ {
+  "userId": 12,
+  "movieId": 16,
+  "rating": 4.0,
+  "timestamp": 1491194256
+ },
+ {
+  "userId": 12,
+  "movieId": 17,
+  "rating": 4.5,
+  "timestamp": 1449405791
+ },
+ {
+  "userId": 12,
+  "movieId": 18,
+  "rating": 5.0,
+  "timestamp": 1438899546
+ },
+ {
+  "userId": 12,
+  "movieId": 19,
+  "rating": 5.0,
+  "timestamp": 1535575957
+ },
+ {
+  "userId": 12,
+  "movieId": 21,
+  "rating": 3.0,
+  "timestamp": 1423600023
+ },
+ {
+  "userId": 12,
+  "movieId": 22,
+  "rating": 5.0,
+  "timestamp": 1536775027
+ },
+ {
+  "userId": 12,
+  "movieId": 25,
+  "rating": 4.0,
+  "timestamp": 1430268368
+ },
+ {
+  "userId": 12,
+  "movieId": 31,
+  "rating": 4.5,
+  "timestamp": 1420845014
+ },
+ {
+  "userId": 12,
+  "movieId": 32,
+  "rating": 5.0,
+  "timestamp": 1442752821
+ },
+ {
+  "userId": 12,
+  "movieId": 35,
+  "rating": 3.0,
+  "timestamp": 1442569424
+ },
+ {
+  "userId": 12,
+  "movieId": 37,
+  "rating": 4.0,
+  "timestamp": 1515718093
+ },
+ {
+  "userId": 13,
+  "movieId": 2,
+  "rating": 5.0,
+  "timestamp": 1513199292
+ },
+ {
+  "userId": 13,
+  "movieId": 6,
+  "rating": 3.0,
+  "timestamp": 1535384144
+ },
+ {
+  "userId": 13,
+  "movieId": 10,
+  "rating": 5.0,
+  "timestamp": 1457533604
+ },
+ {
+  "userId": 13,
+  "movieId": 11,
+  "rating": 4.5,
+  "timestamp": 1458577574
+ },
+ {
+  "userId": 13,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1514117263
+ },
+ {
+  "userId": 13,
+  "movieId": 15,
+  "rating": 3.0,
+  "timestamp": 1505391416
+ },
+ {
+  "userId": 13,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1482350541
+ },
+ {
+  "userId": 13,
+  "movieId": 20,
+  "rating": 4.0,
+  "timestamp": 1424290699
+ },
+ {
+  "userId": 13,
+  "movieId": 21,
+  "rating": 3.0,
+  "timestamp": 1510649688
+ },
+ {
+  "userId": 13,
+  "movieId": 23,
+  "rating": 4.0,
+  "timestamp": 1442161177
+ },
+ {
+  "userId": 13,
+  "movieId": 26,
+  "rating": 3.5,
+  "timestamp": 1442741910
+ },
+ {
+  "userId": 13,
+  "movieId": 28,
+  "rating": 4.5,
+  "timestamp": 1430044832
+ },
+ {
+  "userId": 13,
+  "movieId": 30,
+  "rating": 4.5,
+  "timestamp": 1524620631
+ },
+ {
+  "userId": 13,
+  "movieId": 31,
+  "rating": 3.0,
+  "timestamp": 1529870974
+ },
+ {
+  "userId": 13,
+  "movieId": 35,
+  "rating": 1.5,
+  "timestamp": 1420272682
+ },
+ {
+  "userId": 13,
+  "movieId": 37,
+  "rating": 3.5,
+  "timestamp": 1513751439
+ },
+ {
+  "userId": 13,
+  "movieId": 39,
+  "rating": 3.0,
+  "timestamp": 1467846903
+ },
+ {
+  "userId": 14,
+  "movieId": 1,
+  "rating": 4.0,
+  "timestamp": 1453932135
+ },
+ {
+  "userId": 14,
+  "movieId": 2,
+  "rating": 4.0,
+  "timestamp": 1470702740
+ },
+ {
+  "userId": 14,
+  "movieId": 8,
+  "rating": 3.5,
+  "timestamp": 1423902599
+ },
+ {
+  "userId": 14,
+  "movieId": 9,
+  "rating": 3.0,
+  "timestamp": 1518887489
+ },
+ {
+  "userId": 14,
+  "movieId": 10,
+  "rating": 4.0,
+  "timestamp": 1509256215
+ },
+ {
+  "userId": 14,
+  "movieId": 16,
+  "rating": 4.0,
+  "timestamp": 1437139424
+ },
+ {
+  "userId": 14,
+  "movieId": 17,
+  "rating": 3.5,
+  "timestamp": 1453900398
+ },
+ {
+  "userId": 14,
+  "movieId": 18,
+  "rating": 3.5,
+  "timestamp": 1501744263
+ },
+ {
+  "userId": 14,
+  "movieId": 19,
+  "rating": 4.5,
+  "timestamp": 1420742658
+ },
+ {
+  "userId": 14,
+  "movieId": 20,
+  "rating": 4.5,
+  "timestamp": 1436376140
+ },
+ {
+  "userId": 14,
+  "movieId": 21,
+  "rating": 4.0,
+  "timestamp": 1429231646
+ },
+ {
+  "userId": 14,
+  "movieId": 24,
+  "rating": 3.0,
+  "timestamp": 1479663994
+ },
+ {
+  "userId": 14,
+  "movieId": 27,
+  "rating": 3.5,
+  "timestamp": 1459858407
+ },
+ {
+  "userId": 14,
+  "movieId": 30,
+  "rating": 3.0,
+  "timestamp": 1493610972
+ },
+ {
+  "userId": 14,
+  "movieId": 31,
+  "rating": 4.0,
+  "timestamp": 1515710043
+ },
+ {
+  "userId": 14,
+  "movieId": 34,
+  "rating": 3.5,
+  "timestamp": 1512994098
+ },
+ {
+  "userId": 14,
+  "movieId": 36,
+  "rating": 2.5,
+  "timestamp": 1500809359
+ },
+ {
+  "userId": 14,
+  "movieId": 37,
+  "rating": 4.5,
+  "timestamp": 1492078032
+ },
+ {
+  "userId": 14,
+  "movieId": 38,
+  "rating": 3.5,
+  "timestamp": 1492941073
+ },
+ {
+  "userId": 15,
+  "movieId": 1,
+  "rating": 3.5,
+  "timestamp": 1480757435
+ },
+ {
+  "userId": 15,
+  "movieId": 2,
+  "rating": 5.0,
+  "timestamp": 1488343014
+ },
+ {
+  "userId": 15,
+  "movieId": 3,
+  "rating": 4.0,
+  "timestamp": 1460375902
+ },
+ {
+  "userId": 15,
+  "movieId": 4,
+  "rating": 2.5,
+  "timestamp": 1477852404
+ },
+ {
+  "userId": 15,
+  "movieId": 6,
+  "rating": 5.0,
+  "timestamp": 1511461676
+ },
+ {
+  "userId": 15,
+  "movieId": 7,
+  "rating": 4.0,
+  "timestamp": 1461292353
+ },
+ {
+  "userId": 15,
+  "movieId": 13,
+  "rating": 3.5,
+  "timestamp": 1531390335
+ },
+ {
+  "userId": 15,
+  "movieId": 19,
+  "rating": 2.5,
+  "timestamp": 1467143689
+ },
+ {
+  "userId": 15,
+  "movieId": 22,
+  "rating": 3.0,
+  "timestamp": 1468953319
+ },
+ {
+  "userId": 15,
+  "movieId": 26,
+  "rating": 3.5,
+  "timestamp": 1535979795
+ },
+ {
+  "userId": 15,
+  "movieId": 29,
+  "rating": 4.0,
+  "timestamp": 1472898163
+ },
+ {
+  "userId": 15,
+  "movieId": 32,
+  "rating": 5.0,
+  "timestamp": 1445506054
+ },
+ {
+  "userId": 15,
+  "movieId": 33,
+  "rating": 1.5,
+  "timestamp": 1435763663
+ },
+ {
+  "userId": 15,
+  "movieId": 34,
+  "rating": 2.0,
+  "timestamp": 1436595824
+ },
+ {
+  "userId": 15,
+  "movieId": 36,
+  "rating": 0.5,
+  "timestamp": 1433286146
+ },
+ {
+  "userId": 15,
+  "movieId": 37,
+  "rating": 3.5,
+  "timestamp": 1463180589
+ },
+ {
+  "userId": 15,
+  "movieId": 38,
+  "rating": 5.0,
+  "timestamp": 1522312485
+ },
+ {
+  "userId": 15,
+  "movieId": 39,
+  "rating": 4.0,
+  "timestamp": 1440294431
+ },
+ {
+  "userId": 16,
+  "movieId": 3,
+  "rating": 4.0,
+  "timestamp": 1527144396
+ },
+ {
+  "userId": 16,
+  "movieId": 7,
+  "rating": 3.5,
+  "timestamp": 1482650853
+ },
+ {
+  "userId": 16,
+  "movieId": 14,
+  "rating": 4.0,
+  "timestamp": 1422834302
+ },
+ {
+  "userId": 16,
+  "movieId": 16,
+  "rating": 4.5,
+  "timestamp": 1428303582
+ },
+ {
+  "userId": 16,
+  "movieId": 17,
+  "rating": 3.5,
+  "timestamp": 1467254274
+ },
+ {
+  "userId": 16,
+  "movieId": 20,
+  "rating": 3.5,
+  "timestamp": 1515750764
+ },
+ {
+  "userId": 16,
+  "movieId": 22,
+  "rating": 4.0,
+  "timestamp": 1434696860
+ },
+ {
+  "userId": 16,
+  "movieId": 23,
+  "rating": 4.5,
+  "timestamp": 1500937600
+ },
+ {
+  "userId": 16,
+  "movieId": 25,
+  "rating": 5.0,
+  "timestamp": 1524226303
+ },
+ {
+  "userId": 16,
+  "movieId": 29,
+  "rating": 3.5,
+  "timestamp": 1505130441
+ },
+ {
+  "userId": 16,
+  "movieId": 30,
+  "rating": 3.0,
+  "timestamp": 1523191518
+ },
+ {
+  "userId": 16,
+  "movieId": 32,
+  "rating": 5.0,
+  "timestamp": 1461781943
+ },
+ {
+  "userId": 16,
+  "movieId": 33,
+  "rating": 2.0,
+  "timestamp": 1530772837
+ },
+ {
+  "userId": 16,
+  "movieId": 35,
+  "rating": 1.5,
+  "timestamp": 1501889220
+ },
+ {
+  "userId": 16,
+  "movieId": 36,
+  "rating": 2.0,
+  "timestamp": 1481822758
+ },
+ {
+  "userId": 16,
+  "movieId": 37,
+  "rating": 3.5,
+  "timestamp": 1447978506
+ },
+ {
+  "userId": 17,
+  "movieId": 2,
+  "rating": 4.0,
+  "timestamp": 1455702347
+ },
+ {
+  "userId": 17,
+  "movieId": 3,
+  "rating": 3.0,
+  "timestamp": 1537138943
+ },
+ {
+  "userId": 17,
+  "movieId": 5,
+  "rating": 4.0,
+  "timestamp": 1513643433
+ },
+ {
+  "userId": 17,
+  "movieId": 6,
+  "rating": 4.5,
+  "timestamp": 1505680084
+ },
+ {
+  "userId": 17,
+  "movieId": 7,
+  "rating": 3.0,
+  "timestamp": 1502247761
+ },
+ {
+  "userId": 17,
+  "movieId": 9,
+  "rating": 3.5,
+  "timestamp": 1434365185
+ },
+ {
+  "userId": 17,
+  "movieId": 15,
+  "rating": 3.0,
+  "timestamp": 1467881665
+ },
+ {
+  "userId": 17,
+  "movieId": 16,
+  "rating": 3.5,
+  "timestamp": 1467142407
+ },
+ {
+  "userId": 17,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1423176172
+ },
+ {
+  "userId": 17,
+  "movieId": 21,
+  "rating": 3.0,
+  "timestamp": 1493177866
+ },
+ {
+  "userId": 17,
+  "movieId": 23,
+  "rating": 3.5,
+  "timestamp": 1460340056
+ },
+ {
+  "userId": 17,
+  "movieId": 26,
+  "rating": 4.0,
+  "timestamp": 1447751426
+ },
+ {
+  "userId": 17,
+  "movieId": 27,
+  "rating": 3.5,
+  "timestamp": 1515195267
+ },
+ {
+  "userId": 17,
+  "movieId": 28,
+  "rating": 3.5,
+  "timestamp": 1536763922
+ },
+ {
+  "userId": 17,
+  "movieId": 31,
+  "rating": 2.5,
+  "timestamp": 1502937699
+ },
+ {
+  "userId": 17,
+  "movieId": 32,
+  "rating": 3.0,
+  "timestamp": 1437107876
+ },
+ {
+  "userId": 17,
+  "movieId": 33,
+  "rating": 2.5,
+  "timestamp": 1429037935
+ },
+ {
+  "userId": 17,
+  "movieId": 36,
+  "rating": 1.5,
+  "timestamp": 1499163414
+ },
+ {
+  "userId": 17,
+  "movieId": 39,
+  "rating": 2.5,
+  "timestamp": 1518822316
+ },
+ {
+  "userId": 18,
+  "movieId": 1,
+  "rating": 4.5,
+  "timestamp": 1469866076
+ },
+ {
+  "userId": 18,
+  "movieId": 4,
+  "rating": 3.5,
+  "timestamp": 1426924057
+ },
+ {
+  "userId": 18,
+  "movieId": 5,
+  "rating": 5.0,
+  "timestamp": 1492035167
+ },
+ {
+  "userId": 18,
+  "movieId": 6,
+  "rating": 5.0,
+  "timestamp": 1473381192
+ },
+ {
+  "userId": 18,
+  "movieId": 8,
+  "rating": 4.5,
+  "timestamp": 1484225076
+ },
+ {
+  "userId": 18,
+  "movieId": 9,
+  "rating": 3.5,
+  "timestamp": 1505427882
+ },
+ {
+  "userId": 18,
+  "movieId": 10,
+  "rating": 5.0,
+  "timestamp": 1432757728
+ },
+ {
+  "userId": 18,
+  "movieId": 12,
+  "rating": 4.0,
+  "timestamp": 1456274233
+ },
+ {
+  "userId": 18,
+  "movieId": 16,
+  "rating": 5.0,
+  "timestamp": 1459678906
+ },
+ {
+  "userId": 18,
+  "movieId": 17,
+  "rating": 5.0,
+  "timestamp": 1433902389
+ },
+ {
+  "userId": 18,
+  "movieId": 18,
+  "rating": 3.5,
+  "timestamp": 1430095395
+ },
+ {
+  "userId": 18,
+  "movieId": 20,
+  "rating": 4.5,
+  "timestamp": 1497514734
+ },
+ {
+  "userId": 18,
+  "movieId": 22,
+  "rating": 4.5,
+  "timestamp": 1432530268
+ },
+ {
+  "userId": 18,
+  "movieId": 23,
+  "rating": 5.0,
+  "timestamp": 1495535890
+ },
+ {
+  "userId": 18,
+  "movieId": 24,
+  "rating": 3.0,
+  "timestamp": 1482345169
+ },
+ {
+  "userId": 18,
+  "movieId": 28,
+  "rating": 4.0,
+  "timestamp": 1446133400
+ },
+ {
+  "userId": 18,
+  "movieId": 31,
+  "rating": 3.5,
+  "timestamp": 1445714166
+ },
+ {
+  "userId": 18,
+  "movieId": 32,
+  "rating": 4.0,
+  "timestamp": 1443958749
+ },
+ {
+  "userId": 18,
+  "movieId": 38,
+  "rating": 5.0,
+  "timestamp": 1494614954
+ },
+ {
+  "userId": 18,
+  "movieId": 39,
+  "rating": 4.0,
+  "timestamp": 1450448127
+ },
+ {
+  "userId": 19,
+  "movieId": 3,
+  "rating": 3.5,
+  "timestamp": 1481043246
+ },
+ {
+  "userId": 19,
+  "movieId": 4,
+  "rating": 4.5,
+  "timestamp": 1433941907
+ },
+ {
+  "userId": 19,
+  "movieId": 5,
+  "rating": 2.5,
+  "timestamp": 1436652461
+ },
+ {
+  "userId": 19,
+  "movieId": 6,
+  "rating": 3.5,
+  "timestamp": 1484330150
+ },
+ {
+  "userId": 19,
+  "movieId": 7,
+  "rating": 3.5,
+  "timestamp": 1460153436
+ },
+ {
+  "userId": 19,
+  "movieId": 8,
+  "rating": 5.0,
+  "timestamp": 1426426389
+ },
+ {
+  "userId": 19,
+  "movieId": 10,
+  "rating": 4.0,
+  "timestamp": 1478456579
+ },
+ {
+  "userId": 19,
+  "movieId": 11,
+  "rating": 4.5,
+  "timestamp": 1492578110
+ },
+ {
+  "userId": 19,
+  "movieId": 12,
+  "rating": 4.5,
+  "timestamp": 1462371358
+ },
+ {
+  "userId": 19,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1454030254
+ },
+ {
+  "userId": 19,
+  "movieId": 16,
+  "rating": 3.5,
+  "timestamp": 1464946165
+ },
+ {
+  "userId": 19,
+  "movieId": 19,
+  "rating": 4.5,
+  "timestamp": 1486146456
+ },
+ {
+  "userId": 19,
+  "movieId": 22,
+  "rating": 3.5,
+  "timestamp": 1504004272
+ },
+ {
+  "userId": 19,
+  "movieId": 25,
+  "rating": 4.5,
+  "timestamp": 1490506499
+ },
+ {
+  "userId": 19,
+  "movieId": 26,
+  "rating": 3.5,
+  "timestamp": 1474097058
+ },
+ {
+  "userId": 19,
+  "movieId": 32,
+  "rating": 4.5,
+  "timestamp": 1500386120
+ },
+ {
+  "userId": 19,
+  "movieId": 33,
+  "rating": 3.5,
+  "timestamp": 1439627361
+ },
+ {
+  "userId": 19,
+  "movieId": 36,
+  "rating": 3.0,
+  "timestamp": 1436401491
+ },
+ {
+  "userId": 19,
+  "movieId": 37,
+  "rating": 3.0,
+  "timestamp": 1452678923
+ },
+ {
+  "userId": 19,
+  "movieId": 38,
+  "rating": 3.5,
+  "timestamp": 1448709744
+ },
+ {
+  "userId": 20,
+  "movieId": 2,
+  "rating": 4.5,
+  "timestamp": 1467196770
+ },
+ {
+  "userId": 20,
+  "movieId": 3,
+  "rating": 3.0,
+  "timestamp": 1527793482
+ },
+ {
+  "userId": 20,
+  "movieId": 5,
+  "rating": 4.5,
+  "timestamp": 1444143945
+ },
+ {
+  "userId": 20,
+  "movieId": 6,
+  "rating": 5.0,
+  "timestamp": 1477891167
+ },
+ {
+  "userId": 20,
+  "movieId": 7,
+  "rating": 4.5,
+  "timestamp": 1447038784
+ },
+ {
+  "userId": 20,
+  "movieId": 8,
+  "rating": 2.5,
+  "timestamp": 1470523496
+ },
+ {
+  "userId": 20,
+  "movieId": 18,
+  "rating": 4.5,
+  "timestamp": 1525384524
+ },
+ {
+  "userId": 20,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1431998122
+ },
+ {
+  "userId": 20,
+  "movieId": 22,
+  "rating": 3.5,
+  "timestamp": 1523920176
+ },
+ {
+  "userId": 20,
+  "movieId": 23,
+  "rating": 4.0,
+  "timestamp": 1461513306
+ },
+ {
+  "userId": 20,
+  "movieId": 33,
+  "rating": 4.0,
+  "timestamp": 1513400656
+ },
+ {
+  "userId": 20,
+  "movieId": 39,
+  "rating": 3.5,
+  "timestamp": 1436131671
+ },
+ {
+  "userId": 21,
+  "movieId": 3,
+  "rating": 3.5,
+  "timestamp": 1463777203
+ },
+ {
+  "userId": 21,
+  "movieId": 7,
+  "rating": 4.0,
+  "timestamp": 1458094923
+ },
+ {
+  "userId": 21,
+  "movieId": 10,
+  "rating": 4.0,
+  "timestamp": 1484638039
+ },
+ {
+  "userId": 21,
+  "movieId": 11,
+  "rating": 5.0,
+  "timestamp": 1519616859
+ },
+ {
+  "userId": 21,
+  "movieId": 12,
+  "rating": 3.5,
+  "timestamp": 1493825976
+ },
+ {
+  "userId": 21,
+  "movieId": 13,
+  "rating": 4.5,
+  "timestamp": 1444144335
+ },
+ {
+  "userId": 21,
+  "movieId": 14,
+  "rating": 3.5,
+  "timestamp": 1432531320
+ },
+ {
+  "userId": 21,
+  "movieId": 16,
+  "rating": 4.0,
+  "timestamp": 1495116921
+ },
+ {
+  "userId": 21,
+  "movieId": 17,
+  "rating": 4.0,
+  "timestamp": 1427415105
+ },
+ {
+  "userId": 21,
+  "movieId": 20,
+  "rating": 3.5,
+  "timestamp": 1422893920
+ },
+ {
+  "userId": 21,
+  "movieId": 24,
+  "rating": 4.5,
+  "timestamp": 1523126291
+ },
+ {
+  "userId": 21,
+  "movieId": 25,
+  "rating": 4.0,
+  "timestamp": 1486206307
+ },
+ {
+  "userId": 21,
+  "movieId": 26,
+  "rating": 3.0,
+  "timestamp": 1449444388
+ },
+ {
+  "userId": 21,
+  "movieId": 27,
+  "rating": 3.5,
+  "timestamp": 1461917162
+ },
+ {
+  "userId": 21,
+  "movieId": 30,
+  "rating": 4.0,
+  "timestamp": 1491080670
+ },
+ {
+  "userId": 21,
+  "movieId": 32,
+  "rating": 3.5,
+  "timestamp": 1534632109
+ },
+ {
+  "userId": 21,
+  "movieId": 33,
+  "rating": 4.0,
+  "timestamp": 1434179847
+ },
+ {
+  "userId": 21,
+  "movieId": 34,
+  "rating": 2.5,
+  "timestamp": 1420743834
+ },
+ {
+  "userId": 21,
+  "movieId": 35,
+  "rating": 2.5,
+  "timestamp": 1452997694
+ },
+ {
+  "userId": 21,
+  "movieId": 38,
+  "rating": 3.5,
+  "timestamp": 1420532865
+ },
+ {
+  "userId": 22,
+  "movieId": 1,
+  "rating": 3.5,
+  "timestamp": 1431673322
+ },
+ {
+  "userId": 22,
+  "movieId": 4,
+  "rating": 5.0,
+  "timestamp": 1467244832
+ },
+ {
+  "userId": 22,
+  "movieId": 5,
+  "rating": 3.5,
+  "timestamp": 1431037857
+ },
+ {
+  "userId": 22,
+  "movieId": 7,
+  "rating": 4.0,
+  "timestamp": 1479179376
+ },
+ {
+  "userId": 22,
+  "movieId": 8,
+  "rating": 4.0,
+  "timestamp": 1524236803
+ },
+ {
+  "userId": 22,
+  "movieId": 15,
+  "rating": 3.0,
+  "timestamp": 1515453648
+ },
+ {
+  "userId": 22,
+  "movieId": 17,
+  "rating": 4.5,
+  "timestamp": 1445608738
+ },
+ {
+  "userId": 22,
+  "movieId": 18,
+  "rating": 4.0,
+  "timestamp": 1428313095
+ },
+ {
+  "userId": 22,
+  "movieId": 22,
+  "rating": 4.0,
+  "timestamp": 1537431732
+ },
+ {
+  "userId": 22,
+  "movieId": 23,
+  "rating": 5.0,
+  "timestamp": 1529144477
+ },
+ {
+  "userId": 22,
+  "movieId": 32,
+  "rating": 4.5,
+  "timestamp": 1427657696
+ },
+ {
+  "userId": 22,
+  "movieId": 33,
+  "rating": 5.0,
+  "timestamp": 1450915258
+ },
+ {
+  "userId": 22,
+  "movieId": 35,
+  "rating": 1.5,
+  "timestamp": 1489623144
+ },
+ {
+  "userId": 22,
+  "movieId": 36,
+  "rating": 2.5,
+  "timestamp": 1529260856
+ },
+ {
+  "userId": 22,
+  "movieId": 37,
+  "rating": 4.0,
+  "timestamp": 1517360283
+ },
+ {
+  "userId": 22,
+  "movieId": 38,
+  "rating": 4.5,
+  "timestamp": 1455803217
+ },
+ {
+  "userId": 22,
+  "movieId": 39,
+  "rating": 5.0,
+  "timestamp": 1511519238
+ },
+ {
+  "userId": 23,
+  "movieId": 2,
+  "rating": 4.5,
+  "timestamp": 1474657393
+ },
+ {
+  "userId": 23,
+  "movieId": 3,
+  "rating": 5.0,
+  "timestamp": 1440398149
+ },
+ {
+  "userId": 23,
+  "movieId": 5,
+  "rating": 5.0,
+  "timestamp": 1502177245
+ },
+ {
+  "userId": 23,
+  "movieId": 7,
+  "rating": 4.0,
+  "timestamp": 1490866887
+ },
+ {
+  "userId": 23,
+  "movieId": 10,
+  "rating": 4.0,
+  "timestamp": 1440841762
+ },
+ {
+  "userId": 23,
+  "movieId": 11,
+  "rating": 3.5,
+  "timestamp": 1459541731
+ },
+ {
+  "userId": 23,
+  "movieId": 12,
+  "rating": 4.0,
+  "timestamp": 1482760490
+ },
+ {
+  "userId": 23,
+  "movieId": 14,
+  "rating": 4.0,
+  "timestamp": 1511701265
+ },
+ {
+  "userId": 23,
+  "movieId": 17,
+  "rating": 2.5,
+  "timestamp": 1506944884
+ },
+ {
+  "userId": 23,
+  "movieId": 18,
+  "rating": 4.5,
+  "timestamp": 1489986848
+ },
+ {
+  "userId": 23,
+  "movieId": 21,
+  "rating": 3.5,
+  "timestamp": 1492006733
+ },
+ {
+  "userId": 23,
+  "movieId": 22,
+  "rating": 4.0,
+  "timestamp": 1434196471
+ },
+ {
+  "userId": 23,
+  "movieId": 23,
+  "rating": 4.0,
+  "timestamp": 1536303469
+ },
+ {
+  "userId": 23,
+  "movieId": 24,
+  "rating": 3.0,
+  "timestamp": 1499460880
+ },
+ {
+  "userId": 23,
+  "movieId": 25,
+  "rating": 3.5,
+  "timestamp": 1446188120
+ },
+ {
+  "userId": 23,
+  "movieId": 31,
+  "rating": 2.5,
+  "timestamp": 1424479061
+ },
+ {
+  "userId": 23,
+  "movieId": 33,
+  "rating": 3.0,
+  "timestamp": 1504452079
+ },
+ {
+  "userId": 23,
+  "movieId": 34,
+  "rating": 1.5,
+  "timestamp": 1432661732
+ },
+ {
+  "userId": 23,
+  "movieId": 35,
+  "rating": 2.5,
+  "timestamp": 1481277708
+ },
+ {
+  "userId": 23,
+  "movieId": 36,
+  "rating": 1.5,
+  "timestamp": 1442411641
+ },
+ {
+  "userId": 23,
+  "movieId": 37,
+  "rating": 1.5,
+  "timestamp": 1512637582
+ },
+ {
+  "userId": 24,
+  "movieId": 1,
+  "rating": 3.5,
+  "timestamp": 1459748045
+ },
+ {
+  "userId": 24,
+  "movieId": 5,
+  "rating": 4.5,
+  "timestamp": 1447097731
+ },
+ {
+  "userId": 24,
+  "movieId": 8,
+  "rating": 3.0,
+  "timestamp": 1427157364
+ },
+ {
+  "userId": 24,
+  "movieId": 9,
+  "rating": 1.0,
+  "timestamp": 1516609867
+ },
+ {
+  "userId": 24,
+  "movieId": 11,
+  "rating": 3.5,
+  "timestamp": 1483762135
+ },
+ {
+  "userId": 24,
+  "movieId": 12,
+  "rating": 2.0,
+  "timestamp": 1506598002
+ },
+ {
+  "userId": 24,
+  "movieId": 13,
+  "rating": 4.0,
+  "timestamp": 1450461357
+ },
+ {
+  "userId": 24,
+  "movieId": 14,
+  "rating": 2.5,
+  "timestamp": 1469182068
+ },
+ {
+  "userId": 24,
+  "movieId": 15,
+  "rating": 3.0,
+  "timestamp": 1499864872
+ },
+ {
+  "userId": 24,
+  "movieId": 19,
+  "rating": 4.5,
+  "timestamp": 1434210327
+ },
+ {
+  "userId": 24,
+  "movieId": 20,
+  "rating": 4.0,
+  "timestamp": 1425679264
+ },
+ {
+  "userId": 24,
+  "movieId": 21,
+  "rating": 4.0,
+  "timestamp": 1504287226
+ },
+ {
+  "userId": 24,
+  "movieId": 23,
+  "rating": 3.5,
+  "timestamp": 1467648965
+ },
+ {
+  "userId": 24,
+  "movieId": 25,
+  "rating": 4.0,
+  "timestamp": 1516432912
+ },
+ {
+  "userId": 24,
+  "movieId": 26,
+  "rating": 3.5,
+  "timestamp": 1500757712
+ },
+ {
+  "userId": 24,
+  "movieId": 31,
+  "rating": 5.0,
+  "timestamp": 1496225557
+ },
+ {
+  "userId": 24,
+  "movieId": 32,
+  "rating": 3.0,
+  "timestamp": 1488401017
+ },
+ {
+  "userId": 24,
+  "movieId": 33,
+  "rating": 3.0,
+  "timestamp": 1505509066
+ },
+ {
+  "userId": 24,
+  "movieId": 34,
+  "rating": 2.5,
+  "timestamp": 1518330837
+ },
+ {
+  "userId": 24,
+  "movieId": 35,
+  "rating": 3.0,
+  "timestamp": 1516695283
+ },
+ {
+  "userId": 24,
+  "movieId": 36,
+  "rating": 2.0,
+  "timestamp": 1528773066
+ },
+ {
+  "userId": 25,
+  "movieId": 1,
+  "rating": 4.5,
+  "timestamp": 1491517913
+ },
+ {
+  "userId": 25,
+  "movieId": 3,
+  "rating": 3.0,
+  "timestamp": 1458874681
+ },
+ {
+  "userId": 25,
+  "movieId": 5,
+  "rating": 5.0,
+  "timestamp": 1472074128
+ },
+ {
+  "userId": 25,
+  "movieId": 7,
+  "rating": 4.0,
+  "timestamp": 1511249934
+ },
+ {
+  "userId": 25,
+  "movieId": 8,
+  "rating": 4.5,
+  "timestamp": 1456168400
+ },
+ {
+  "userId": 25,
+  "movieId": 10,
+  "rating": 5.0,
+  "timestamp": 1514730684
+ },
+ {
+  "userId": 25,
+  "movieId": 11,
+  "rating": 5.0,
+  "timestamp": 1485867518
+ },
+ {
+  "userId": 25,
+  "movieId": 12,
+  "rating": 3.0,
+  "timestamp": 1518311844
+ },
+ {
+  "userId": 25,
+  "movieId": 14,
+  "rating": 5.0,
+  "timestamp": 1520517697
+ },
+ {
+  "userId": 25,
+  "movieId": 16,
+  "rating": 4.5,
+  "timestamp": 1450612722
+ },
+ {
+  "userId": 25,
+  "movieId": 17,
+  "rating": 5.0,
+  "timestamp": 1422911219
+ },
+ {
+  "userId": 25,
+  "movieId": 18,
+  "rating": 4.5,
+  "timestamp": 1472963309
+ },
+ {
+  "userId": 25,
+  "movieId": 19,
+  "rating": 3.5,
+  "timestamp": 1426523715
+ },
+ {
+  "userId": 25,
+  "movieId": 20,
+  "rating": 4.5,
+  "timestamp": 1455631574
+ },
+ {
+  "userId": 25,
+  "movieId": 22,
+  "rating": 2.5,
+  "timestamp": 1533724547
+ },
+ {
+  "userId": 25,
+  "movieId": 24,
+  "rating": 4.0,
+  "timestamp": 1493056149
+ },
+ {
+  "userId": 25,
+  "movieId": 27,
+  "rating": 4.0,
+  "timestamp": 1457829751
+ },
+ {
+  "userId": 25,
+  "movieId": 28,
+  "rating": 3.0,
+  "timestamp": 1473692981
+ },
+ {
+  "userId": 25,
+  "movieId": 30,
+  "rating": 4.5,
+  "timestamp": 1481753140
+ },
+ {
+  "userId": 25,
+  "movieId": 31,
+  "rating": 3.0,
+  "timestamp": 1462131266
+ },
+ {
+  "userId": 25,
+  "movieId": 32,
+  "rating": 4.5,
+  "timestamp": 1437179623
+ },
+ {
+  "userId": 25,
+  "movieId": 34,
+  "rating": 4.0,
+  "timestamp": 1511058979
+ },
+ {
+  "userId": 25,
+  "movieId": 37,
+  "rating": 3.5,
+  "timestamp": 1430779028
+ },
+ {
+  "userId": 25,
+  "movieId": 38,
+  "rating": 3.5,
+  "timestamp": 1460610466
+ },
+ {
+  "userId": 3,
+  "movieId": 2,
+  "rating": 6.0,
+  "timestamp": 1500000000
+ },
+ {
+  "userId": 3,
+  "movieId": 5,
+  "rating": 3.7,
+  "timestamp": 1500000000
+ },
+ {
+  "userId": 4,
+  "movieId": 2,
+  "rating": null,
+  "timestamp": 1500000000
+ },
+ {
+  "userId": 4,
+  "movieId": 3,
+  "rating": "muy buena",
+  "timestamp": 1500000000
+ },
+ {
+  "userId": 5,
+  "movieId": 999,
+  "rating": 4.0,
+  "timestamp": 1500000000
+ },
+ {
+  "userId": -4,
+  "movieId": 1,
+  "rating": 3.0,
+  "timestamp": 1500000000
+ },
+ {
+  "userId": 1,
+  "movieId": 3,
+  "rating": 1.0,
+  "timestamp": 1450038145
+ },
+ {
+  "userId": 1,
+  "movieId": 3,
+  "rating": 2.0,
+  "timestamp": 1450040145
+ }
+]

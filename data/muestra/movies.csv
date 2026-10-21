@@ -1,0 +1,47 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,"Shawshank Redemption, The (1994)",Crime|Drama
+3,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+4,Forrest Gump (1994),Comedy|Drama|Romance|War
+5,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+6,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+7,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+8,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+9,Titanic (1997),Drama|Romance
+10,"Godfather, The (1972)",Crime|Drama
+11,Fight Club (1999),Action|Crime|Drama|Thriller
+12,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+13,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy
+14,"Amélie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+15,"Misérables, Les (1995)",Drama|War
+16,"Secret in Their Eyes, The (El secreto de sus ojos) (2009)",Crime|Drama|Mystery|Romance|Thriller
+17,Wild Tales (2014),Comedy|Drama|Thriller
+18,Nine Queens (Nueve reinas) (2000),Crime|Thriller
+19,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller
+20,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller
+21,(500) Days of Summer (2009),Comedy|Drama|Romance
+22,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+23,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+24,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi
+25,Up (2009),Adventure|Animation|Children|Drama
+26,Interstellar (2014),Sci-Fi|IMAX
+27,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller
+28,"Grand Budapest Hotel, The (2014)",Comedy|Drama
+29,Whiplash (2014),Drama
+30,Get Out (2017),Horror
+31,Coco (2017),Adventure|Animation|Children
+32,Parasite (2019),Comedy|Drama
+33,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+34,Twilight (2008),Drama|Fantasy|Romance|Thriller
+35,Batman & Robin (1997),Action|Adventure|Fantasy|Thriller
+36,Catwoman (2004),Action|Crime|Fantasy
+37,Psycho (1960),Crime|Horror
+38,Metropolis (1927),Drama|Sci-Fi
+39,Casablanca (1942),Drama|Romance
+40,Cosmos,(no genres listed)
+41,Hidden Gem Documentary (2016),Documentary
+42,Unrated Short Film (2018),Animation
+12,"Lion King, The (2019)",Adventure|Animation
+abc,Movie With Bad Id (2001),Drama
+90,,Drama
+91,Movie From The Future (2099),Sci-Fi
