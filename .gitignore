@@ -1,0 +1,28 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Salidas regenerables (se crean al ejecutar la aplicación)
+outputs/
+
+# Datos reales descargados (condiciones de uso de MovieLens: no se redistribuyen)
+data/raw/
+
+# Secretos y configuración local
+.env
+*.key
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

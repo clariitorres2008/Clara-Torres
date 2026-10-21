@@ -1,0 +1,2 @@
+# Sin dependencias externas: el proyecto usa solo la biblioteca estándar de Python (3.10 o superior).
+# Módulos usados: argparse, csv, json, re, dataclasses, abc, pathlib, unicodedata, unittest.
